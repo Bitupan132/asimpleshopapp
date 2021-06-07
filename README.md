@@ -1,16 +1,7 @@
 # new_shop_app
 
-A new Flutter application.
+A flutter application with an attractive UI.
 
-## Getting Started
+## Screenshots
+![Screenshot_2021-06-07-19-27-51-34_558bf60659145e014b50b35154246f6f](https://user-images.githubusercontent.com/58231570/121030261-f3a41180-c7c6-11eb-9995-e1b8c08170cc.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
