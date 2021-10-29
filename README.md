@@ -8,6 +8,6 @@ A shop application with a beautiful UI and an attractive animation.
 ![ss2](https://user-images.githubusercontent.com/58231570/139444957-db5645d8-918a-4771-b91d-8adcc955eec0.jpg)
 
 ## TODO
-1. Implement 'Signup and Login with gmail' feature
-2. Implement 'Add to cart' and 'Add to wishlist' feature
-3. Get Items and details from firebase storage
+1. Implement 'Signup and Login with gmail' feature.
+2. Implement 'Add to cart' and 'Add to wishlist' features.
+3. Get Items and details from firebase storage.
